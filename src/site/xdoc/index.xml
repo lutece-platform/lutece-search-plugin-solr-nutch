@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<properties>
+		<title>Lutece : Solr-nutch</title>
+	</properties>
+	<body>
+		<section name="Solr-nutch">
+			<p>
+			Allow to query a solr server populated by the nutch scrawler.
+			</p>
+		</section>
+	</body>
+</document>  

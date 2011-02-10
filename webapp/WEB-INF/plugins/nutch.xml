@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<plug-in>
+
+	<!-- Plugin Informations -->
+	<name>solr-nutch</name>
+	<class>fr.paris.lutece.portal.service.plugin.PluginDefaultImplementation</class>
+	<version>1.0.0</version>
+	<documentation></documentation>
+	<installation></installation>
+	<changes></changes>
+	<user-guide></user-guide>
+	<description>search.sorl.nutch.plugin.description</description>
+	<provider>search.sorl.nutch.plugin.provider</provider>
+	<provider-url>http://lutece.paris.fr</provider-url>
+	<icon-url>images/admin/skin/plugins/search/nutch-logo.gif</icon-url>
+	<copyright>Copyright 2001-2008 Mairie de Paris</copyright>
+	<db-pool-required>0</db-pool-required>
+
+	<applications>
+		<application>
+			<application-id>search-solr-nutch</application-id>
+			<application-class>fr.paris.lutece.plugins.search.solr.nutch.web.NutchSearchApp</application-class>
+		</application>
+	</applications>
+</plug-in>
