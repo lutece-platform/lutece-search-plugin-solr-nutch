@@ -28,6 +28,10 @@
 			<version>[1.0.0,2.0.0-SNAPSHOT)</version>
 		</dependency>
 	</dependencies>
+	<properties>
+		<jiraProjectName>SOLRNUTCH</jiraProjectName>
+		<jiraComponentId>10241</jiraComponentId>
+	</properties>
     <scm>
         <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/technical/plugin-solr-nutch</connection>
         <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/technical/plugin-solr-nutch</developerConnection>
