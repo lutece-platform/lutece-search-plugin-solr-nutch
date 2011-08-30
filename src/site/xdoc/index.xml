@@ -4,10 +4,10 @@
 		<title>Lutece : Solr-nutch</title>
 	</properties>
 	<body>
-		<section name="Solr-nutch">
-			<p>
-			Allow to query a solr server populated by the nutch scrawler.
-			</p>
+		<section name="Plugin Solr-nutch">
+			<subsection name="Introduction">
+				Allow to query a solr server populated by the nutch scrawler.
+			</subsection>
 		</section>
 	</body>
 </document>  

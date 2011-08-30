@@ -5,9 +5,10 @@
 	</properties>
 	<body>
 		<section name="Solr-nutch">
-			<p>
-			Allow to query a solr server populated by the nutch scrawler.
-			</p>
+			<subsection name="Introduction">
+				Allow to query a solr server populated by
+				the nutch scrawler.
+			</subsection>
 		</section>
 	</body>
 </document>  
