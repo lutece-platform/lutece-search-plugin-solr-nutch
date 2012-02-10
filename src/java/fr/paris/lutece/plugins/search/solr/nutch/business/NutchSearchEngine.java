@@ -178,7 +178,7 @@ public final class NutchSearchEngine implements SearchEngine
 
         s = s.replaceAll( "[ÈÉÊË]", "E" );
         s = s.replaceAll( "[ÛÙ]", "U" );
-        s = s.replaceAll( "[�?Î]", "I" );
+        s = s.replaceAll( "[ÏÎ]", "I" );
         s = s.replaceAll( "[ÀÂ]", "A" );
         s = s.replaceAll( "Ô", "O" );
 
